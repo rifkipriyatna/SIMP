@@ -886,7 +886,7 @@ $(document).ready(function(){
 
 				padding:3px;
 
-				width:10%;
+				width:25%;
 
 				font-weight:bold;
 
@@ -912,7 +912,7 @@ $(document).ready(function(){
 
 				padding:3px;
 
-				width:10%;
+				width:20%;
 
 				font-weight:bold;
 
