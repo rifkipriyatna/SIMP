@@ -552,7 +552,7 @@ $(document).ready(function(){
 
 				opacity:0.7;
 
-				padding:10px;
+				padding:2px;
 
 				border-radius:5px;
 
@@ -642,7 +642,7 @@ $(document).ready(function(){
 
 				font-family:Cursive;
 
-				font-size:26.5px;
+				font-size:20px;
 
 				
 
@@ -688,7 +688,7 @@ $(document).ready(function(){
 
 				font-family:Cursive;
 
-				font-size:26.5px;
+				font-size:20px;
 
 }
 
@@ -748,7 +748,7 @@ $(document).ready(function(){
 
 				font-family:Cursive;
 
-				font-size:26.5px;
+				font-size:20px;
 
 }
 
@@ -854,7 +854,7 @@ $(document).ready(function(){
 
 				font-family:Cursive;
 
-				font-size:26.5px;
+				font-size:20px;
 
 }
 
