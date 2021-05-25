@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html lang="in">
 
 <head>
@@ -578,9 +576,9 @@ $(document).ready(function(){
 
 				display:block;
 
-				padding:8px;
+				padding:4px;
 
-				width:50%;
+				width:25%;
 
 				font-weight:bold;
 
@@ -668,9 +666,9 @@ $(document).ready(function(){
 
 				display:none;
 
-				padding:8px;
+				padding:4px;
 
-				width:50%;
+				width:25%;
 
 				font-weight:bold;
 
@@ -730,9 +728,9 @@ $(document).ready(function(){
 
 				display:none;
 
-				padding:8px;
+				padding:4px;
 
-				width:50%;
+				width:25%;
 
 				font-weight:bold;
 
@@ -836,9 +834,9 @@ $(document).ready(function(){
 
 				display:none;
 
-				padding:8px;
+				padding:4px;
 
-				width:50%;
+				width:25%;
 
 				font-weight:bold;
 
@@ -886,9 +884,9 @@ $(document).ready(function(){
 
 				display:none;
 
-				padding:8px;
+				padding:3px;
 
-				width:30%;
+				width:10%;
 
 				font-weight:bold;
 
@@ -912,9 +910,9 @@ $(document).ready(function(){
 
 				display:none;
 
-				padding:8px;
+				padding:3px;
 
-				width:30%;
+				width:10%;
 
 				font-weight:bold;
 
