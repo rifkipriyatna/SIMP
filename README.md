@@ -550,7 +550,7 @@ $(document).ready(function(){
 
 				background-color:#191919;
 
-				opacity:0.7;
+				opacity:0.7; font-size:12px;
 
 				padding:6px;
 
