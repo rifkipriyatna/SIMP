@@ -536,7 +536,7 @@ $(document).ready(function(){
 
 								body{
 
-				background-image:url(bintang.jpeg);
+				background-image:url(https://raw.githubusercontent.com/rifkipriyatna/SIMP/main/bintang.jpeg);
 
 }
 
