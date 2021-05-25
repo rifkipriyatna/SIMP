@@ -580,7 +580,7 @@ $(document).ready(function(){
 
 				width:25%;
 
-				font-weight:bold;
+				font-weight:bold; font-size:13px;
 
 				border-radius:5px;			
 
@@ -670,7 +670,7 @@ $(document).ready(function(){
 
 				width:25%;
 
-				font-weight:bold;
+				font-weight:bold; font-size:13px;
 
 				border-radius:5px;		
 
@@ -726,7 +726,7 @@ $(document).ready(function(){
 
 				margin:auto;
 
-				display:none;
+				display:none; font-size:13px;
 
 				padding:4px;
 
@@ -832,7 +832,7 @@ $(document).ready(function(){
 
 				margin:auto;
 
-				display:none;
+				display:none; font-size:13px;
 
 				padding:4px;
 
@@ -880,7 +880,7 @@ $(document).ready(function(){
 
 				color:white;
 
-				margin:auto;
+				margin:auto; font-size:13px;
 
 				display:none;
 
@@ -908,7 +908,7 @@ $(document).ready(function(){
 
 				margin:auto;
 
-				display:none;
+				display:none; font-size:13px;
 
 				padding:3px;
 
