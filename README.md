@@ -340,7 +340,7 @@ $(document).ready(function(){
 
 									<p class="love" id="love">❤</p>
 
-									<p class="ikyy" id="ikyy">Ikyy</p>
+									<p class="ikyy" id="ikyy">Aku</p>
 
 								<p class="beb" id="hai"></p>
 
@@ -442,7 +442,7 @@ $(document).ready(function(){
 
 									<p class="love" id="sad">💔</p>
 
-									<p class="ikyy" id="ikyyy">Ikyy</p>
+									<p class="ikyy" id="ikyyy">Aku</p>
 
 								<p class="beb" id="hai"></p>
 
